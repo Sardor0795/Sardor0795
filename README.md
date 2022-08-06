@@ -26,7 +26,7 @@ Frontend dasturchi. Frontend dasturlashni 2021-yil yanvar oyidan boshlagan. Hozi
 
 | Preview  | Tarif |
 |---|---|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page demo" width="250"><br/>[Maketga manba](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6)| <b>Ecommerce product page</b><br/>Onlayn do'konning mahsulot haqida malumot sahifasi <br/> <br/> [📃 Repo](https://github.com/Sardor0795/E-Commerce) - [🌐 Netlify](https://app.netlify.com/sites/s-e-commerce/overview) - ⌚ 4 soat 45 daqiqa <br/> <br/> <b>O'ziga xos jixatlari:</b> Savatchada mahsulot bor-yo'qligiga moslangan dropdown meny, rasmlar galareyasi, lightbox|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page demo" width="250"><br/>[Maketga manba](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6)| <b>Ecommerce product page</b><br/>Onlayn do'konning mahsulot haqida malumot sahifasi <br/> <br/> [📃 Repo](https://github.com/Sardor0795/E-Commerce) - [🌐 Netlify](https://s-e-commerce.netlify.app/) - ⌚ 4 soat 45 daqiqa <br/> <br/> <b>O'ziga xos jixatlari:</b> Savatchada mahsulot bor-yo'qligiga moslangan dropdown meny, rasmlar galareyasi, lightbox|
 
 
 
