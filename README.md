@@ -4,6 +4,8 @@ Frontend dasturchi. Frontend dasturlashni 2021-yil yanvar oyidan boshlagan. Hozi
 
 [💼 Portfolio](https://) | [📧 Email](mailto:english.programmer.9595@gmail.com) | [💬 Telegram](https://t.me/Sardor0795)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sardor0795&label=Profile%20views&color=0e75b6&style=flat" alt="sardor0795" /> </p>
+
 <p align="left">
 </p>
 
@@ -22,19 +24,6 @@ Frontend dasturchi. Frontend dasturlashni 2021-yil yanvar oyidan boshlagan. Hozi
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
 </p>
 
-## So'ngi loyhalar
-
-| Preview  | Tarif |
-|---|---|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page demo" width="250"><br/>[Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6)| <b>Ecommerce product page</b><br/>Onlayn do'konning mahsulot haqida malumot sahifasi <br/> <br/> [📃 Repo](https://github.com/Sardor0795/E-Commerce) - [🌐 Netlify](https://s-e-commerce.netlify.app/) - ⌚ 4 soat 45 daqiqa <br/> <br/> <b>O'ziga xos jixatlari:</b> Savatchada mahsulot bor-yo'qligiga moslangan dropdown meny, rasmlar galareyasi, lightbox|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easy Banking product page demo" width="250"><br/>[Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)| <b>Easybank landing page</b><br/>Onlayn banking uchun mobil ilovening promo sahifasi <br/> <br/> [📃 Repo](https://github.com/Sardor0795/EasyBanking) - [🌐 Netlify](https://s-easy-banking.netlify.app/) - ⌚ 2 soat <br/> <br/> <b>O'ziga xos jixatlari:</b> Hero qismidagi rasmlar joylashuvi|
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sardor0795&show_icons=true&locale=en&layout=compact" alt="sardor0795" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sardor0795&show_icons=true&locale=en" alt="sardor0795" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sardor0795&" alt="sardor0795" /></p>
-
 ## Sahifalar
 
 <p align="left">
@@ -45,5 +34,16 @@ Frontend dasturchi. Frontend dasturlashni 2021-yil yanvar oyidan boshlagan. Hozi
 <a href="https://www.leetcode.com/sardor0795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sardor0795" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sardor0795&label=Profile%20views&color=0e75b6&style=flat" alt="sardor0795" /> </p>
+## So'ngi loyhalar
+
+| Preview  | Tarif |
+|---|---|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page demo" width="250"><br/>[Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6)| <b>Ecommerce product page</b><br/>Onlayn do'konning mahsulot haqida malumot sahifasi <br/> <br/> [📃 Repo](https://github.com/Sardor0795/E-Commerce) - [🌐 Netlify](https://s-e-commerce.netlify.app/) - ⌚ 4 soat 45 daqiqa <br/> <br/> <b>O'ziga xos jixatlari:</b> Savatchada mahsulot bor-yo'qligiga moslangan dropdown meny, rasmlar galareyasi, lightbox|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easy Banking product page demo" width="250"><br/>[Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)| <b>Easybank landing page</b><br/>Onlayn banking uchun mobil ilovening promo sahifasi <br/> <br/> [📃 Repo](https://github.com/Sardor0795/EasyBanking) - [🌐 Netlify](https://s-easy-banking.netlify.app/) - ⌚ 2 soat <br/> <br/> <b>O'ziga xos jixatlari:</b> Hero qismidagi rasmlar joylashuvi|
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sardor0795&show_icons=true&locale=en" alt="sardor0795" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sardor0795&" alt="sardor0795" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sardor0795&show_icons=true&locale=en&layout=compact" alt="sardor0795" /></p>
 
