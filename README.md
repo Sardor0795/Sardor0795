@@ -1,6 +1,8 @@
-<h1>Sardor Tursunboyev</h1>
+# Sardor Tursunboyev
 
-<h3>Frontend developer</h3>
+Frontend dasturchi. Frontend dasturlashni 2021-yil yanvar oyidan boshlagan. Hozirda JavaScript tilini va uning React kutubxonasini chuqurroq o'rganayotgan dasturchi.
+
+[💼 Portfolio](https://) | [📧 Email](mailto:english.programmer.9595@gmail.com) | [💬 Telegram](https://t.me/Sardor0795)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardor0795&label=Profile%20views&color=0e75b6&style=flat" alt="sardor0795" /> </p>
 
