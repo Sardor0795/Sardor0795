@@ -2,7 +2,7 @@
 
 Frontend developer. I started learning web development in January 2021. When I started, I encountered two big stacks: Frontend and Backend and several programming languages. First I learned both, a little Front and a little Back. For Backend development I learned Python. For Frontent development I learned JavaScript. Both of them are good languages but I liked JS much more and Front works! So I'm learning JS and its framefork React.js deeper in these days.
 
-[💼 Portfolio](https://) | [📧 Email](english.programmer.9595@gmail.com) | [💬 Telegram](https://t.me/Sardor0795)
+[💼 Portfolio](https://) | [📧 Email](mailto:english.programmer.9595@gmail.com) | [💬 Telegram](https://t.me/Sardor0795)
 
 <p align="left">
 </p>
