@@ -1,13 +1,13 @@
 # Sardor Tursunboyev
 
-Frontend dasturchi. Frontend dasturlashni 2021-yil yanvar oyidan boshlagan. Hozirda JavaScript tilini va uning React kutubxonasini chuqurroq o'rganayotgan dasturchi.
+Frontend developer. I started learning web development in January 2021. When I started, I encountered two big stacks: Frontend and Backend and several programming languages. First I learned both, a little Front and a little Back. For Backend development I learned Python. For Frontent development I I learned JavaScript. Both of them good languages but I liked JS and Front works! So I'm learning JS and its framefork React deeper in these days.
 
 [💼 Portfolio](https://) | [📧 Email](mailto:english.programmer.9595@gmail.com) | [💬 Telegram](https://t.me/Sardor0795)
 
 <p align="left">
 </p>
 
-## Texnologiyalar
+## Skills
 
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -22,14 +22,14 @@ Frontend dasturchi. Frontend dasturlashni 2021-yil yanvar oyidan boshlagan. Hozi
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
 </p>
 
-## So'ngi loyhalar
+## Last projects
 
 | Preview  | Tarif |
 |---|---|
 | <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page demo" width="250"><br/>[Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6)| <b>Ecommerce product page</b><br/>Onlayn do'konning mahsulot haqida malumot sahifasi <br/> <br/> [📃 Repo](https://github.com/Sardor0795/E-Commerce) - [🌐 Netlify](https://s-e-commerce.netlify.app/) - ⌚ 4 soat 45 daqiqa <br/> <br/> <b>O'ziga xos jixatlari:</b> Savatchada mahsulot bor-yo'qligiga moslangan dropdown meny, rasmlar galareyasi, lightbox|
 | <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easy Banking product page demo" width="250"><br/>[Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)| <b>Easybank landing page</b><br/>Onlayn banking uchun mobil ilovening promo sahifasi <br/> <br/> [📃 Repo](https://github.com/Sardor0795/EasyBanking) - [🌐 Netlify](https://s-easy-banking.netlify.app/) - ⌚ 2 soat <br/> <br/> <b>O'ziga xos jixatlari:</b> Hero qismidagi rasmlar joylashuvi|
 
-## Statistika
+## GitHub statistics
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sardor0795&show_icons=true&locale=en" alt="sardor0795" /></p>
 
@@ -40,7 +40,7 @@ Frontend dasturchi. Frontend dasturlashni 2021-yil yanvar oyidan boshlagan. Hozi
 <br/><br/><br/><br/><br/><br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardor0795&label=Profile%20views&color=0e75b6&style=flat" alt="sardor0795" /> </p>
 
-## Sahifalar
+## Social
 
 <p align="left">
 <a href="https://codepen.io/@sardor0795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sardor0795" height="30" width="40" /></a>
