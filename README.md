@@ -37,7 +37,7 @@ Frontend developer. I started learning web development in January 2021. When I s
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sardor0795&show_icons=true&locale=en&layout=compact" alt="sardor0795" /></p>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br style="display: inline-block;" /> <br style="display: inline-block;" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardor0795&label=Profile%20views&color=0e75b6&style=flat" alt="sardor0795" /> </p>
 
 ## Social
