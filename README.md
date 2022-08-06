@@ -24,10 +24,10 @@ Frontend developer. I started learning web development in January 2021. When I s
 
 ## Last projects
 
-| Preview  | Tarif |
+| Preview  | Description |
 |---|---|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page demo" width="250"><br/>[Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6)| <b>Ecommerce product page</b><br/>Onlayn do'konning mahsulot haqida malumot sahifasi <br/> <br/> [📃 Repo](https://github.com/Sardor0795/E-Commerce) - [🌐 Netlify](https://s-e-commerce.netlify.app/) - ⌚ 4 soat 45 daqiqa <br/> <br/> <b>O'ziga xos jixatlari:</b> Savatchada mahsulot bor-yo'qligiga moslangan dropdown meny, rasmlar galareyasi, lightbox|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easy Banking product page demo" width="250"><br/>[Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)| <b>Easybank landing page</b><br/>Onlayn banking uchun mobil ilovening promo sahifasi <br/> <br/> [📃 Repo](https://github.com/Sardor0795/EasyBanking) - [🌐 Netlify](https://s-easy-banking.netlify.app/) - ⌚ 2 soat <br/> <br/> <b>O'ziga xos jixatlari:</b> Hero qismidagi rasmlar joylashuvi|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page demo" width="250"><br/>[Source](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6)| <b>Ecommerce product page</b><br/>About online shop's product information page<br/> <br/> [📃 Repo](https://github.com/Sardor0795/E-Commerce) - [🌐 Netlify](https://s-e-commerce.netlify.app/) - ⌚ 4 hours 45 minutes<br/><br/><b>Specific: </b>There's a dropdown menu in a shopping cart for secected products, photo galarey, lightbox|
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easy Banking product page demo" width="250"><br/>[Source](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN)| <b>Easybank landing page</b><br/>Online banking mobile application's promo page<br/> <br/>[📃 Repo](https://github.com/Sardor0795/EasyBanking) - [🌐 Netlify](https://s-easy-banking.netlify.app/) - ⌚ 2 hours<br/><br/><b>Specific: </b>There's a  beautiful positioning in a Hero section|
 
 ## GitHub statistics
 
