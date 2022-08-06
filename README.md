@@ -1,4 +1,4 @@
-<h1 align="center">Sardor Tursunboyev</h1>
+<h1>Sardor Tursunboyev</h1>
 
 <h3>Frontend developer</h3>
 
