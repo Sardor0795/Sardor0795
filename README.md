@@ -44,6 +44,6 @@ Frontend dasturchi. Frontend dasturlashni 2021-yil yanvar oyidan boshlagan. Hozi
 <a href="https://www.youtube.com/c/english.programmer.9595@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="english.programmer.9595@gmail.com" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sardor0795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sardor0795" height="30" width="40" /></a>
 </p>
-<br/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sardor0795&label=Profile%20views&color=0e75b6&style=flat" alt="sardor0795" /> </p>
 
