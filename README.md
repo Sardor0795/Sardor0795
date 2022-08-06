@@ -44,7 +44,7 @@ Frontend developer. I started learning web development in January 2021. When I s
 
 <p align="left">
 <a href="https://codepen.io/sardor0795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@sardor0795" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:19704510" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19704510" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19704510/sardor-tursunboyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19704510" height="30" width="40" /></a>
 <a href="https://instagram.com/sardor_dev0795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sardor_dev0795" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCZUkdjzZrQseqqqKj0JOZMg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="english.programmer.9595@gmail.com" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sardor0795" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sardor0795" height="30" width="40" /></a>
