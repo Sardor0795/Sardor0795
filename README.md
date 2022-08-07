@@ -2,7 +2,7 @@
 
 Frontend developer. I started learning web development in January 2021. At first, I tried to learn both frontend and backend. As I was more interested in frontend development, I chose to focus on it and learn JavaScript more deeply. Currently, I am learning JavaScript and React library.
 
-[💼 Portfolio](https://) | [📧 Email](mailto:english.programmer.9595@gmail.com) | [💬 Telegram](https://t.me/Sardor0795)
+[💼 Portfolio](https://s-my-portfolio.netlify.app) | [📧 Email](mailto:english.programmer.9595@gmail.com) | [💬 Telegram](https://t.me/Sardor0795)
 
 <p align="left">
 </p>
