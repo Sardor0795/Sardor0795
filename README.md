@@ -1,6 +1,6 @@
 # Sardor Tursunboyev
 
-Frontend developer. I started learning web development in January 2021. At first, I tried to learn both frontend and backend. As I was more interested in frontend development, I have chosen to focus on it and start to learn JavaScript more deeply. Currently, I am learning JavaScript and React library.
+Frontend developer. I started learning web development in January 2021. At first, I tried to learn both frontend and backend. As I was more interested in frontend development, I have chosen to focus on it and start to learn JavaScript more deeply.
 
 [💼 Portfolio](https://sardortursunboyev.uz/) | [:computer: Codewars](https://www.codewars.com/users/Sardor0795) | [🔴 YouTube](https://www.youtube.com/channel/UCZUkdjzZrQseqqqKj0JOZMg) | [💬 Telegram](https://t.me/Sardor0795) | [📧 Email](mailto:english.programmer.9595@gmail.com)
 
